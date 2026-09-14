@@ -1,0 +1,199 @@
+IGNITION — 7 EMAIL SEQUENCE
+From: Ignition <help@ignitiondesk.biz>
+Trigger Email 1 on setup form submit. Stop this sequence on Sprint Pass purchase.
+
+
+EMAIL 1 — immediate
+Subject: {{llc}} is on the desk. Export it tonight.
+Preview: Browser storage is not a filing cabinet.
+
+{{first_name}} —
+
+Pre-flight is open for {{llc}}.
+
+Two things that are true on this version of the desk:
+
+1. The company file lives in this browser until you export it.
+2. The 30-day clock has not started. It starts the day the LLC checking account opens.
+
+Tonight: open the desk, lock the legal name exactly as the state has it, and export. If you clear cookies next week and have no export, the file is gone. That is not a metaphor.
+
+What you can do for $0: see the NAP rules, read the scam list, look at the operating-agreement preview.
+
+What you cannot do yet: the vendor packets and the dated checklist. Those are the Sprint Pass, because they are the part that has to be right on a Tuesday, not interesting on a Sunday.
+
+Desk: https://ignitiondesk.biz/setup.html
+
+— Ignition
+help@ignitiondesk.biz
+
+
+EMAIL 2 — +18 hours
+Subject: The denial that happens before anyone says no
+Preview: Three letters. Same string. Every form.
+
+{{first_name}} —
+
+Most “we don’t approve new companies” letters are not about age.
+
+They are about the name, address, and phone not matching across:
+
+- the Secretary of State
+- the EIN
+- the bank
+- the vendor application
+
+If the state has Hearth & Kiln Supply LLC and the vendor app says Hearth and Kiln Supply, you did not apply as the same company. You applied as a cousin.
+
+Do this before you talk to a bank:
+
+- Copy the legal name from the formation document. Do not retype it from memory.
+- Pick one address you can receive a package at. Use that one.
+- Pick one business phone. Use that one.
+
+The desk calls this the NAP lock. It is the least glamorous step and the one that decides whether day 18 is an approval or a shrug.
+
+If the full agreement and the locked block would save you an afternoon, the Pre-flight Kit is $29. If you want the clock and the vendor packets, that is the Sprint Pass.
+
+https://ignitiondesk.biz/#pricing
+
+— Ignition
+
+
+EMAIL 3 — Day 2
+Subject: EIN is free. The mill is the product.
+Preview: IRS.gov. Nothing else.
+
+{{first_name}} —
+
+Apply for the EIN on IRS.gov.
+
+Not on a site that googles well for “get an EIN today.”
+Not through a dashboard that charges $79 to type the same form.
+Not through anyone who needs your Social Security number in a chat box to “expedite.”
+
+The IRS issues EINs to new LLCs at no charge. If a page is selling you the number, it is selling you a printout of a free page.
+
+When you file:
+
+- Use the exact legal name from the state.
+- The responsible party is a real principal. That is an IRS requirement. It is not Ignition collecting a Social Security number. We do not want it and we do not store it.
+
+After the notice lands, put it in the export folder next to the formation document. You will need both for the bank.
+
+Desk: https://ignitiondesk.biz
+
+— Ignition
+
+
+EMAIL 4 — Day 3
+Subject: What to take to the bank. What not to say.
+Preview: You are opening checking. You are not pitching a credit department.
+
+{{first_name}} —
+
+The business checking account is the other half of pre-flight. It is also where people accidentally start a consumer underwriting conversation they did not mean to start.
+
+Bring:
+
+- Formation document
+- EIN notice
+- Photo ID
+- The address and phone you already locked
+
+Open business checking in the LLC name. That is the job.
+
+Do not:
+
+- Ask the personal banker for a “starter business credit card” on day one unless you already knew you wanted that product
+- Hand them a packet from a YouTube “funding stack”
+- Pay anyone who promises the bank will approve a loan because your LLC exists
+
+The Ignition clock, if you buy it, starts the day this account opens. Until then there is no clock. That is intentional. Identity first, vendors second.
+
+If you want the desk to keep you on the dates after the account exists, that is the Sprint Pass — $149, refunded if you run the steps on time and still have no vendor net-30 line by day 30.
+
+https://ignitiondesk.biz/#pricing
+
+— Ignition
+
+
+EMAIL 5 — Day 4
+Subject: DUNS is free. “Faster DUNS” is a store.
+Preview: dnb.com. Thirty days-ish. Do not buy a shortcut.
+
+{{first_name}} —
+
+A D-U-N-S Number is how Dun & Bradstreet files a company.
+
+The request on dnb.com is free. Issuance is often measured in weeks, not hours. That wait is annoying. It is not a reason to pay a reseller.
+
+Resellers sell speed and formatting. They also sell a second, messier identity sitting next to the one you are trying to keep consistent. The guarantee on the Sprint Pass is void if you buy a paid DUNS product. That is in the terms because those products are how files get forked.
+
+If you are on the Pass: submit the free request by day 4 of the clock. Save the confirmation with the rest of the Proof Pack.
+
+If you are not on the Pass yet: this is usually the week people realize they want the dated list instead of a folder of PDFs. Same link as before.
+
+https://ignitiondesk.biz/#pricing
+
+— Ignition
+
+
+EMAIL 6 — Day 5
+Subject: Trade credit is a supplier saying yes. Not a score.
+Preview: Net-30 is the product. Paydex is a later newspaper.
+
+{{first_name}} —
+
+People buy “business credit” systems because they want a number.
+
+What a brand-new LLC can actually get in the first month, when the file is clean, is narrower and more useful:
+
+A supplier ships, invoices the LLC, and gives you 30 days to pay.
+
+That is trade credit. It is real. It is how the company starts a commercial file without putting a consumer card in the middle.
+
+It is also why the Sprint Pass names specific starter vendors instead of “our partner network.” You apply as the LLC. You order something the company can use. You pay from the LLC account on time.
+
+What we do not sell:
+
+- Seasoned tradelines
+- CPNs
+- Guaranteed bank loans
+- A Paydex date
+
+If you want that sequence run on dates, with packets, with a refund if the LLC has no written net-30 terms after an on-time sprint: $149.
+
+If you only wanted the operating agreement and the NAP block: $29.
+
+https://ignitiondesk.biz/#pricing
+
+— Ignition
+
+
+EMAIL 7 — Day 7
+Subject: The guarantee, without the theater
+Preview: A refund. Not a vendor’s promise.
+
+{{first_name}} —
+
+You have had a week with {{llc}} on the desk.
+
+Here is the only promise attached to money.
+
+Buy the Sprint Pass. Finish pre-flight. Open the checking account. Request free DUNS by day 4. Submit the three vendor applications on the days they are due. Keep the name, address, and phone identical.
+
+If day 30 arrives and the LLC still has no written vendor net-30 terms in its own name, email the Proof Pack within 14 days. We return the $149.
+
+We do not promise that Uline, Quill, or Grainger have pre-approved you. We do not promise Dun & Bradstreet will publish a score that week. We promise the refund if the process you paid for is run on time and still produces no terms.
+
+If that is the deal you wanted, take it while the file is still simple. Files get worse when the name starts drifting.
+
+Sprint Pass — $149
+https://ignitiondesk.biz/#pricing
+
+If you already know you only needed documents, take the $29 kit and stop getting these.
+
+— Matthew
+Ignition
+help@ignitiondesk.biz

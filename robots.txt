@@ -1,0 +1,75 @@
+# ignitiondesk.biz
+# AI answer engines and their crawlers are explicitly welcome.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /desk.html
+
+# --- OpenAI ---
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+
+# --- Anthropic ---
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /api/
+
+# --- Perplexity ---
+User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /api/
+
+# --- Google (Gemini / AI Overviews grounding) ---
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+# --- Microsoft Copilot ---
+User-agent: bingbot
+Allow: /
+Disallow: /api/
+
+# --- Apple Intelligence ---
+User-agent: Applebot
+Allow: /
+Disallow: /api/
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Meta ---
+User-agent: meta-externalagent
+Allow: /
+Disallow: /api/
+
+# --- Common Crawl (feeds many training sets) ---
+User-agent: CCBot
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ignitiondesk.biz/sitemap.xml
