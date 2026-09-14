@@ -465,6 +465,9 @@ Pay the invoice from the business account the day it lands.
       "Uline application": (s) => { s.lastPacket = AUTO_PACKETS.v1(s); return s.lastPacket; },
       "Quill application": (s) => { s.lastPacket = AUTO_PACKETS.v2(s); return s.lastPacket; },
       "Grainger application": (s) => { s.lastPacket = AUTO_PACKETS.v3(s); return s.lastPacket; },
+      "First starter vendor application": (s) => { s.lastPacket = AUTO_PACKETS.v1(s); return s.lastPacket; },
+      "Second starter vendor application": (s) => { s.lastPacket = AUTO_PACKETS.v2(s); return s.lastPacket; },
+      "Third starter vendor application": (s) => { s.lastPacket = AUTO_PACKETS.v3(s); return s.lastPacket; },
       "DUNS packet": (s) => { s.lastPacket = AUTO_PACKETS.duns(s); return s.lastPacket; },
       "What's due today": (s) => {
         const day = dayOf(s);
@@ -474,7 +477,7 @@ Pay the invoice from the business account the day it lands.
           : "Nothing due. You're ahead of the sprint.";
       },
       "How the guarantee works": () =>
-        "The clock starts the day your business bank account opens. Do every step on schedule and your LLC has at least one open credit line (net-30 trade terms count — that's real credit) within 30 days of that, or 100% refund of the Sprint Pass. Nothing approved by day 20? Email " + MAIL + " and we work the file free. We never guarantee a bank loan — nobody honestly can.",
+        "Sprint Pass only. Clock starts when LLC checking is open and pre-flight is done. Free DUNS by day 4. Three vendor applications on the days they are due. Written vendor net-30 terms in the LLC name by day 30, or $149 back if you email the Proof Pack within 14 days. Day 20 is a written review and one revised packet — we do not call vendors as you. We never guarantee a bank loan.",
       "What scams should I avoid": () =>
         "Walk away from: paid EIN mills, DUNS resellers, seasoned tradelines, CPNs, guaranteed bank approvals, and merchant cash advances. IRS.gov and dnb.com are free.",
       "Run the file audit": (s) => { s.lastPacket = AUTO_PACKETS.audit(s); return s.lastPacket; },
@@ -486,6 +489,9 @@ Pay the invoice from the business account the day it lands.
       "Uline application": NEEDS_ADDRESS,
       "Quill application": NEEDS_ADDRESS,
       "Grainger application": NEEDS_ADDRESS,
+      "First starter vendor application": NEEDS_ADDRESS,
+      "Second starter vendor application": NEEDS_ADDRESS,
+      "Third starter vendor application": NEEDS_ADDRESS,
       "DUNS packet": NEEDS_ADDRESS,
     };
 

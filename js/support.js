@@ -14,7 +14,7 @@
     {
       q: "How does the guarantee work?",
       k: ["guarantee", "money back", "refund", "promise", "guaranteed loan"],
-      a: "The 30-day clock starts the day you open the LLC's business bank account. Complete every checklist step on schedule after that and your LLC has at least one real open credit line — vendor net-30 terms count, that's trade credit in the company's name — within those 30 days. If you did everything on time and the 30 days pass with nothing open, email us within 14 days for a 100% refund. What we never do: guarantee a bank loan. Banks decide, not us — anyone promising bank approvals is scamming you.",
+      a: "Sprint Pass only. Clock starts when the LLC checking account is open and pre-flight is done. You request free DUNS by day 4 and file the three Sprint vendor applications on time. If day 30 arrives with no written vendor net-30 terms in the LLC name, email the Proof Pack within 14 days for a full $149 refund. Day 20 is a written review plus one revised packet — we do not call vendors as you. We never guarantee a bank loan.",
     },
     {
       q: "Is a net-30 account really credit?",
@@ -24,7 +24,7 @@
     {
       q: "How much does it cost?",
       k: ["cost", "price", "pricing", "how much", "expensive", "pay"],
-      a: "Days 1–3 are free so you can watch the desk work. The Sprint Pass is $149 one-time — all 30 days, every packet, the day-20 human intervention, and the guarantee. No subscription, no renewal.",
+      a: "Preview is free. Documents only (operating agreement, NAP, EIN and bank packets) are $29 with no guarantee. The Sprint Pass is $149 one-time: vendor packets, dated checklist, day-20 written review, and a refund if an on-time file still has no written vendor net-30 terms by day 30. No subscription.",
     },
     {
       q: "Why 30 days? Others say months.",
