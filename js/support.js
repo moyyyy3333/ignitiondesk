@@ -172,3 +172,13 @@
     init();
   }
 })();
+
+
+/* Public launch status: informational preview only while payment, guarantee and reminders are reviewed. */
+document.addEventListener("DOMContentLoaded", () => {
+  const notice = document.createElement("div");
+  notice.setAttribute("role","status");
+  notice.style.cssText = "background:#25334a;color:#fff;padding:12px 20px;text-align:center;font:14px/1.5 system-ui,sans-serif";
+  notice.textContent = "Free preview: payment enrollment and email reminders are currently unavailable. Credit approval and reporting depend on third parties. Your work stays in this browser unless you export it.";
+  document.body.prepend(notice);
+});

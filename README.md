@@ -47,3 +47,6 @@ Do **not** overwrite `api/stripe-config.php` from this repo. Secrets stay on the
 
 Paste `EMAILS-1-7.txt` into Resend / Buttondown / MailerLite.  
 Trigger email 1 when the setup form is submitted.
+
+## 2026-11-21 GitHub Pages free preview
+GitHub Pages hosts a static-only preview; it cannot run PHP, Stripe verification or the server-backed portal. Paid enrollment disabled pending verified backend, consumer-ready guarantees and payment testing. User-entered data remains in browser localStorage.

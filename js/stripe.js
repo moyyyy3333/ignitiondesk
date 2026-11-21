@@ -42,8 +42,7 @@
     },
 
     async upgrade(plan) {
-      const { url } = await call({ action: "checkout", plan: plan || "sprint_pass" });
-      location.href = url;
+      throw new Error("Paid enrollment is temporarily closed while secure hosting and checkout verification are completed. You can use the free preview.");
     },
 
     /** Stripe-hosted billing portal: receipts, refund requests. */
@@ -100,7 +99,7 @@
     e.preventDefault();
     const label = btn.textContent;
     btn.disabled = true;
-    btn.textContent = "Opening secure checkout…";
+    btn.textContent = "Enrollment paused…";
     Billing.upgrade(btn.dataset.checkout).catch((err) => {
       btn.disabled = false;
       btn.textContent = label;
